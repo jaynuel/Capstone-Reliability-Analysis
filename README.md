@@ -2,7 +2,7 @@
 **Yeshiva University - Katz School of Science** <br>
 **Data Analytics and Visualization MS** <br>
 **Work done in collaboration with A.O. Olivera,** <br> 
-**Mechanical & Electrical Engineering Student at** <br>  
+**Mechanical & Electrical Engineering Student at**  
 **University of Puerto Rico – Mayaguez Campus** <br
 
 
