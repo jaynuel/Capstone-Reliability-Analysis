@@ -1,0 +1,23 @@
+
+AWS Virtual Enviroment Setup:
+
+1. Launch and configure in a private subnet an c4.4xlarge instance | vCPU: 16	MEM(GiB): 30	EBS-Only	Mbps: 2,000	 Network Performane: High
+- Enable "advance monitoring"
+- Setting up agent to capture ec2 memory utilization metrics
+- Configure AWS CLI 
+
+2. SHH into instance and install Jupyter-labs, its libraries, dependencies and extentions 
+
+3. Importing and running final scripts. 
+
+Reference Links:
+Setting up agent to capture memory data from ec2: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/monitoring-scripts-intro.html#mon-scripts-perl_prereq
+Setting up Dask EC2: https://github.com/dask/dask-ec2
+Setting up AWS Jupyter Dev Enviroment: https://www.youtube.com/watch?v=qYe5J5lBvn4
+Intalling libraries and packages: https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
+Setting Up Jupyterlab Extension:https://www.youtube.com/watch?v=EX_voquHdk0
+Fixing errors: https://superuser.com/questions/1647896/putty-key-format-too-new-when-using-ppk-file-for-putty-ssh-key-authentication
+
+
+
+
