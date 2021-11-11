@@ -1,9 +1,9 @@
 # Capstone-Reliability-Analysis
-### Yeshiva University - Katz School of Science
-### Data Analytics and Visualization MS
-### Work done in collaboration with A.O. Olivera, 
-### Mechanical & Electrical Engineering Student at  
-### University of Puerto Rico – Mayaguez Campus
+**Yeshiva University - Katz School of Science
+Data Analytics and Visualization MS
+Work done in collaboration with A.O. Olivera, 
+Mechanical & Electrical Engineering Student at  
+University of Puerto Rico – Mayaguez Campus**
 
 
 **date:          December, 2021**
