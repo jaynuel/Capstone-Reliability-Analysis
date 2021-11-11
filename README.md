@@ -36,7 +36,7 @@ The first section of this paper will provide an overview of the Comb() and condi
 Importance
 The importance of obtaining the total reliability of a system resides in the ability of understanding how much effect each component has on the overall performance of a system, thus enhance product usability, performance, expected life, functionality, etc.
 
-![image](https://user-images.githubusercontent.com/71087767/141351820-37e37713-1760-4bec-b198-70a3747b07b0.png)
+![image](https://user-images.githubusercontent.com/71087767/141352107-89153760-2aa6-419e-a258-d9cca3a48c0a.png)
 
 #### Broader Impact<br>
 Understanding the relationship and the effects each of the components have in a system will provide the necessary insights needed to increase its overall performance. Modern technology requires higher performance due to the dramatic increase in energy usage. Every day new technologies are developed posing unconventional configurations and requirements. Space, energy, automotive industry, and others are always looking for developing systems with higher efficiencies, in where higher systems efficiencies is proportional to higher reliabilities. Currently, it is only possible to obtain reliability data about an individual system by applying the proposed method, and the overall system reliability design can be obtained in minutes or second’s time laps. The process of calculating overall reliability will be moved from a probabilistic method that uses Monte Carlo to a close form solution, a discrete solution of an equation, which yields to a novel overall reliability design calculation.
@@ -44,5 +44,6 @@ Understanding the relationship and the effects each of the components have in a 
 ![image](https://user-images.githubusercontent.com/71087767/141351857-68780d49-3d62-4096-94d6-9824fc4e06f9.png)
 
 #### Project Design
+![image](https://user-images.githubusercontent.com/71087767/141352211-57e072e4-0747-4630-ab03-9e5c2132786a.png)
 
-![image](https://user-images.githubusercontent.com/71087767/141351992-4ffc9305-2ebd-4c06-971b-4cdd1c55d05e.png)
+
