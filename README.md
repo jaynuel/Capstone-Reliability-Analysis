@@ -43,7 +43,6 @@ Understanding the relationship and the effects each of the components have in a 
 
 ![image](https://user-images.githubusercontent.com/71087767/141351857-68780d49-3d62-4096-94d6-9824fc4e06f9.png)
 
-#### Project Design
-![image](https://user-images.githubusercontent.com/71087767/141352211-57e072e4-0747-4630-ab03-9e5c2132786a.png)
+
 
 
