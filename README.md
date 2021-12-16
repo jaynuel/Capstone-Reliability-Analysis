@@ -26,7 +26,7 @@ National laboratories have shown interest in having closed form solutions to dif
 ![image](https://user-images.githubusercontent.com/71087767/141351745-3b124007-c7c8-40c9-909d-a89792935c45.png)
 
 #### Objective<br>
-The objective of this study is to solve the Comb( ) function in conditional cases by optimizing its MATLAB code and reducing required computational resources by implementing advanced code, algorithm and compute optimization techniques. The results obtained will be compared with the proposed approximation (system reduction’s methodology).    
+The objective of this study is to solve the algorithm in conditional cases by optimizing its MATLAB code and reducing required computational resources by implementing advanced code, algorithm and compute optimization techniques. The results obtained will be compared with the proposed approximation (system reduction’s methodology).    
 
 ![image](https://user-images.githubusercontent.com/71087767/141351774-a40dbc3c-4eb8-45b6-893c-809737a3cf46.png)
 
