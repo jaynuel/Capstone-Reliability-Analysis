@@ -33,7 +33,8 @@ The objective of this study is to solve the algorithm in conditional cases by op
 #### Previous research and current knowledge<br>
 
 The first section of this paper will provide an overview of the conditional algorithm developed by A.O. Olivera, and the second portion of the paper will focus on optimizing the algorithm and enhancing computational resources to obtain the exact solution for the proposed case study; work developed by Jesus Olivera. 
-Importance
+
+#### Importance<br>
 The importance of obtaining the total reliability of a system resides in the ability of understanding how much effect each component has on the overall performance of a system, thus enhance product usability, performance, expected life, functionality, etc.
 
 ![image](https://user-images.githubusercontent.com/71087767/141352107-89153760-2aa6-419e-a258-d9cca3a48c0a.png)
